@@ -1,0 +1,7 @@
+interface:
+  display_name: "Joke SKILL"
+  short_description: "Action-first output for funny readers"
+  default_prompt: "Use $joke-skill to make this response action-first and easy to execute."
+
+policy:
+  allow_implicit_invocation: true
